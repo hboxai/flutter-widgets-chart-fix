@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide SelectionDetails;
 import 'package:syncfusion_flutter_core/theme.dart';
 import 'package:syncfusion_flutter_core/tooltip_internal.dart';
 

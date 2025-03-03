@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide SelectionDetails;
 
 import '../../circular_chart/base/circular_base.dart';
 import '../../common/event_args.dart';
